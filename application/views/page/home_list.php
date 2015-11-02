@@ -18,112 +18,103 @@
 
 <?php } 
 
-elseif($type == 'activenotices'){?>
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Supply Of Electrical Consumables under frame work </span>
-<br>
-<span class='grey-box'>Supplies</span> <span class='dark-grey'>Open International Bidding</span>
-<br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>By: Ministry of Water and Environment</td></tr>
 
-<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Wireless Routers </span>
+else if($type == 'active_notices'){?>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Supply Of Electrical Consumables under frame work </span>
 <br><span class='grey-box'>Supplies</span> <span class='dark-grey'>Open International Bidding</span>
 <br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>By: Micro Finance Centre</td></tr>
+<td class='dark-grey'>By: Ministry of Roads and Infrastructure</td></tr>
 
-<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Consultancy fees for Maintaining PPMS </span>
-<br><span class='grey-box'>Non Consultancy Services</span> <span class='dark-grey'>Direct Procurement</span>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Purchase of New Motor vehicle </span>
+<br><span class='grey-box'>Supplies</span> <span class='dark-grey'>Open International Bidding</span>
 <br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>By: Ministry of Finance</td></tr>
+<td class='dark-grey'>By: Microfinance Support Centre</td></tr>
+
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Construction of Yei-Juba Road RGC in Juba </span>
+<br><span class='grey-box'>Works</span> <span class='dark-grey'>Open International Bidding</span>
+<br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
+<td class='dark-grey'>By: Ministry of Water and Development</td></tr>
 
 <?php } 
 
 
-elseif($type == 'bestevaluatedbidders'){?>
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Provision of group life assurance services</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
+else if($type == 'best_evaluated_bidders'){?>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; ICT Equipment </span>
+<br><span class='grey-box'>Supplies</span> <span class='dark-grey'>Open International Bidding</span>
 <br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Juba Insurance Company</td></tr>
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Provision of group life assurance services</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; ICT Equipment </span>
+<br><span class='grey-box'>Supplies</span> <span class='dark-grey'>Open International Bidding</span>
 <br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Juba Insurance Company</td></tr>
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Provision of group life assurance services</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; ICT Equipment </span>
+<br><span class='grey-box'>Works</span> <span class='dark-grey'>Open International Bidding</span>
 <br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Juba Insurance Company</td></tr>
-
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
 <?php } 
 
 
-elseif($type == 'contractawards'){?>
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
-<br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Space Registry Limited</td></tr>
+else if($type == 'contract_awards'){?>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication</span>
+<br><span class='grey-box'>Entity</span> <span class='dark-grey'>Juba Rvenue Authority</span>
+<br><span class='dark-grey'><span class='bold'>Date Signed:</span> 04/10/2015</span></td>
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
-<br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Space Registry Limited</td></tr>
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication </span>
+<br><span class='grey-box'>Entity</span> <span class='dark-grey'>Juba Road Fund</span>
+<br><span class='dark-grey'><span class='bold'>Date Signed:</span> 04/10/2015</span></td>
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
-<tr>
-  <td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication</span>
-<br>
-<span class='grey-box'>Entity</span> <span class='dark-grey'>Office of the auditor general</span>
-<br><span class='dark-grey'><span class='bold'>Posted:</span> 04/10/2015</span></td>
-<td class='dark-grey'>Provider: Space Registry Limited</td></tr>
-
+<tr><td><span class='bold'>25/12/2015 &nbsp; &nbsp; Printing Stationery & Publication</span>
+<br><span class='grey-box'>Entity</span> <span class='dark-grey'>Law Development Centre</span>
+<br><span class='dark-grey'><span class='bold'>Date Signed:</span> 04/10/2015</span></td>
+<td class='dark-grey'>Provider: Virtual Investiment Authority</td></tr>
 
 <?php } 
+
 
 else if($type == 'active_providers'){ ?>
 <tr><td><span class='bold'>PricewaterhouseCoopers, LLP</span>
-<br><span class='grey-box'>Education</span></td>
-<td class='dark-grey'>Registered: 28/02/2014</td></tr>
+<br><span class='grey-box'>Audit</span></td>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Registered: 28/02/2014</td></tr>
 
 <tr><td><span class='bold'>Millenial Publishing Ltd</span>
-<br><span class='grey-box'>Audit</span></td>
+<br><span class='grey-box'>Education</span></td>
 <td class='dark-grey'>Registered: 14/11/2014</td></tr>
 
 <tr><td><span class='bold'>Millenial Publishing Ltd</span>
-<br><span class='grey-box'>Audit</span></td>
+<br><span class='grey-box'>Education</span></td>
 <td class='dark-grey'>Registered: 14/11/2014</td></tr>
 <?php }  
+
 
 else if($type == 'suspended_providers'){ ?>
-
-<tr><td><span class='bold'>Allied Tec Construction Company Limited</span>
-<br><span class='grey-box'>Construction</span></td>
-<td class='dark-grey'>Registered: 28/02/2014</td></tr>
-
-<tr><td><span class='bold'>Mid North Contractors Limited</span>
+<tr><td><span class='bold'>African United Co. Limited</span>
 <br><span class='grey-box'>Audit</span></td>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Registered: 28/02/2014</td></tr>
+
+<tr><td><span class='bold'>Mc Del-AM(1994)(U) Limited</span>
+<br><span class='grey-box'>Accountants</span></td>
 <td class='dark-grey'>Registered: 14/11/2014</td></tr>
 
-<tr><td><span class='bold'>Modern Construction Company</span>
-<br><span class='grey-box'>Audit</span></td>
+<tr><td><span class='bold'>Michele and Joshua Enterprises Limited</span>
+<br><span class='grey-box'>Consultants</span></td>
 <td class='dark-grey'>Registered: 14/11/2014</td></tr>
 <?php }  
+
+
+
+
+
 
 
 else if($type == 'documents'){ ?>
 <tr><td class='pdf-icon-row'><span class='bold'>Public Procurement Bill MoFEP</span>
 <br><span class='grey-box'>Legal</span></td>
-<td class='dark-grey'>Posted: 04/10/2015 <br>Size: 256KB</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Posted: 04/10/2015 <br>Size: 256KB</td></tr>
 
 <tr><td class='msppt-icon-row'><span class='bold'>How Local Contractors Transform for International Procurem..</span>
 <br><span class='grey-box'>Case Studies</span></td>
@@ -137,57 +128,59 @@ else if($type == 'documents'){ ?>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 01/10/2015<br>Size: 256KB</td></tr>
 <?php }  
+
 
 else if($type == 'important_links'){ ?>
-<tr><td class='pdf-icon-row'><span class='bold'>Invitation to bid procedure</span>
+<tr><td class='pdf-icon-row'><span class='bold'>How to register</span>
 <br><span class='grey-box'>Legal</span></td>
-<td class='dark-grey'>Posted: 04/10/2015 <br>Size: 2.0MB</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Posted: 04/10/2015 <br>Size: 756KB</td></tr>
 
-<tr><td class='msppt-icon-row'><span class='bold'>Preparation of procurement</span>
+<tr><td class='msppt-icon-row'><span class='bold'>The procurement procedure</span>
 <br><span class='grey-box'>Case Studies</span></td>
-<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 1.35MB</td></tr>
+<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 4.35MB</td></tr>
 
-<tr><td class='msdoc-icon-row'><span class='bold'>Interim payments</span>
+<tr><td class='msdoc-icon-row'><span class='bold'>Dangers in breaching contracts</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 03/10/2015<br>Size: 124KB</td></tr>
 
-<tr><td class='file-icon-row'><span class='bold'>Display of best evaluated bidder</span>
+<tr><td class='file-icon-row'><span class='bold'>Avoidable Causes of Delays in Bid Evaluation</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 01/10/2015<br>Size: 256KB</td></tr>
 <?php }  
 
+
 else if($type == 'standards'){ ?>
-<tr><td class='pdf-icon-row'><span class='bold'>Ensure deadline is adhered to</span>
+<tr><td class='pdf-icon-row'><span class='bold'>Submission of Procurement</span>
 <br><span class='grey-box'>Legal</span></td>
-<td class='dark-grey'>Posted: 04/10/2015 <br>Size: 2.0MB</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Posted: 04/10/2015 <br>Size: 756KB</td></tr>
 
-<tr><td class='msppt-icon-row'><span class='bold'>How Local Contractors Transform for International Procurem..</span>
+<tr><td class='msppt-icon-row'><span class='bold'>Complaining to the tribunal</span>
 <br><span class='grey-box'>Case Studies</span></td>
-<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 1.35MB</td></tr>
+<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 4.35MB</td></tr>
 
-<tr><td class='msdoc-icon-row'><span class='bold'>Bid </span>
+<tr><td class='msdoc-icon-row'><span class='bold'>Rejection of contracts</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 03/10/2015<br>Size: 124KB</td></tr>
 
-<tr><td class='file-icon-row'><span class='bold'>Avoidable Causes of Delays in Bid Evaluation</span>
+<tr><td class='file-icon-row'><span class='bold'>Complaining to the tribunal</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 01/10/2015<br>Size: 256KB</td></tr>
-<?php }
+<?php }  
 
 else if($type == 'training_activities'){ ?>
-<tr><td class='pdf-icon-row'><span class='bold'>Public Procurement Bill MoFEP</span>
+<tr><td class='pdf-icon-row'><span class='bold'>Approval Training </span>
 <br><span class='grey-box'>Legal</span></td>
-<td class='dark-grey'>Posted: 04/10/2015 <br>Size: 256KB</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Posted: 04/10/2015 <br>Size: 756KB</td></tr>
 
-<tr><td class='msppt-icon-row'><span class='bold'>How Local Contractors Transform for International Procurem..</span>
+<tr><td class='msppt-icon-row'><span class='bold'>Bidding Training</span>
 <br><span class='grey-box'>Case Studies</span></td>
-<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 1.35MB</td></tr>
+<td class='dark-grey'>Posted: 03/10/2015 <br>Size: 4.35MB</td></tr>
 
-<tr><td class='msdoc-icon-row'><span class='bold'>Effects of Corruption in Developing Countries 2013</span>
+<tr><td class='msdoc-icon-row'><span class='bold'>Sell of Bidding Document</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 03/10/2015<br>Size: 124KB</td></tr>
 
-<tr><td class='file-icon-row'><span class='bold'>Avoidable Causes of Delays in Bid Evaluation</span>
+<tr><td class='file-icon-row'><span class='bold'>Complaining to the tribunal</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Posted: 01/10/2015<br>Size: 256KB</td></tr>
 <?php }  
@@ -196,7 +189,7 @@ else if($type == 'training_activities'){ ?>
 else if($type == 'public_forums'){ ?>
 <tr><td><span class='bold'>What’s causing the delay in Kima Road construction?</span>
 <br><span class='grey-box'>Works</span></td>
-<td class='dark-grey'>Started: 28/05/2015<br>Contributors: 189</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Started: 28/05/2015<br>Contributors: 189</td></tr>
 
 <tr><td><span class='bold'>Ways to reward honest contractors</span>
 <br><span class='grey-box'>General</span></td>
@@ -211,44 +204,48 @@ else if($type == 'public_forums'){ ?>
 <td class='dark-grey'>Started: 27/06/2015<br>Contributors: 189</td></tr>
 <?php } 
 
-
-
 else if($type == 'secure_forums'){ ?>
-<tr><td><span class='bold'>What's causing the delay in Kima Road construction?</span>
-<br><span class='grey-box'>Works</span></td>
-<td class='dark-grey'>Started: 28/05/2015<br>Contributors: 189</td></tr>
 
-<tr><td><span class='bold'>Ways to reward honest contractors</span>
+<tr><td><span class='bold'>What were the objectives of reforming the procurement and disposal system in Local Governments?</span>
 <br><span class='grey-box'>General</span></td>
 <td class='dark-grey'>Started: 12/05/2015<br>Contributors: 1,453</td></tr>
 
-<tr><td><span class='bold'>Mistakes in disposal of Sekit Dam equipment</span>
+<tr><td><span class='bold'>What is the role of councillors?</span>
 <br><span class='grey-box'>Goods</span></td>
 <td class='dark-grey'>Started: 19/04/2015<br>Contributors: 41</td></tr>
 
-<tr><td><span class='bold'>How to use the new registration section</span>
+<tr><td><span class='bold'>Who is the Accounting Officer in Districts or Municipalities?</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Started: 27/06/2015<br>Contributors: 189</td></tr>
-<?php }
+<?php } 
 
-
-else if($type == 'faqs_forums'){ ?>
-<tr><td><span class='bold'>What's causing the delay in Kima Road construction?</span>
+else if($type == 'frequently_asked_questions'){ ?>
+<tr><td><span class='bold'>What is microprocurement?</span>
 <br><span class='grey-box'>Works</span></td>
-<td class='dark-grey'>Started: 28/05/2015<br>Contributors: 189</td></tr>
+<td class='dark-grey' style="width:1%;white-space:nowrap;">Started: 28/05/2015<br>Contributors: 189</td></tr>
 
-<tr><td><span class='bold'>Ways to reward honest contractors</span>
+<tr><td><span class='bold'>What is a procurement plan</span>
 <br><span class='grey-box'>General</span></td>
 <td class='dark-grey'>Started: 12/05/2015<br>Contributors: 1,453</td></tr>
 
-<tr><td><span class='bold'>Mistakes in disposal of Sekit Dam equipment</span>
+<tr><td><span class='bold'>What is Sale to Public Officers?</span>
 <br><span class='grey-box'>Goods</span></td>
 <td class='dark-grey'>Started: 19/04/2015<br>Contributors: 41</td></tr>
 
-<tr><td><span class='bold'>How to use the new registration section</span>
+<tr><td><span class='bold'>Who is the Accounting Officer in Post Primary Institutions?
+</span>
 <br><span class='grey-box'>Reports</span></td>
 <td class='dark-grey'>Started: 27/06/2015<br>Contributors: 189</td></tr>
-<?php } ?>
+<?php } 
+
+else { 
+	echo "<tr><td>".format_notice($this, 'WARNING: List can not be generated.')."</td></tr>";
+}?>
+
+
+
+
+
 
 
 
