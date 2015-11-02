@@ -328,7 +328,7 @@ function getBaseURL()
    //Dev environments have the installation sitting in a separate folder
    if(urlArray[2] == '127.0.0.1' || urlArray[2] == '0.0.0.0')
    {
-		BaseURL = BaseURL+'pss/';   
+		BaseURL = BaseURL+'pss-version-1.0/';   
    }
    
 
