@@ -87,7 +87,7 @@ class Page extends CI_Controller
 		$this->load->view('page/government_agencies', $data);
 	}
 	
-	# Verify a document 
+	# Verify a document page
 	function verify()
 	{
 		$data = filter_forwarded_data($this);
@@ -95,7 +95,7 @@ class Page extends CI_Controller
 		$this->load->view('page/verify_document', $data);
 	}
 	
-	# Contact Us 
+	# Contact Us page
 	function contact_us()
 	{
 		$data = filter_forwarded_data($this);
