@@ -34,6 +34,59 @@ class Page extends CI_Controller
 	
 	
 	
+	
+	
+	# load a home list
+	function home_list()
+	{
+		$data = filter_forwarded_data($this);
+		
+		$data['type'] = $data['t'];
+		# TODO: Select list based on type passed
+		$data['list'] = array();
+		
+		$this->load->view('page/home_list', $data);
+	}
+	
+	
+	
+	
+	
+	# about us page
+	function about()
+	{
+		$data = filter_forwarded_data($this);
+		$this->load->view('page/about', $data);
+	}
+	
+	# terms of use page
+	function terms()
+	{
+		$data = filter_forwarded_data($this);
+		$this->load->view('page/terms', $data);
+	}
+	
+	# privacy policy page
+	function privacy()
+	{
+		$data = filter_forwarded_data($this);
+		$this->load->view('page/privacy', $data);
+	}
+	
+	# privacy policy page
+	function providers()
+	{
+		$data = filter_forwarded_data($this);
+		$this->load->view('page/providers', $data);
+	}
+	
+	# privacy policy page
+	function government_agencies()
+	{
+		$data = filter_forwarded_data($this);
+		$this->load->view('page/government', $data);
+	}
+	
 }
 
 /* End of controller file */
